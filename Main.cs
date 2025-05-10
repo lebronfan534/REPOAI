@@ -25,7 +25,6 @@ namespace REPO_AI
             MovementController.Initialize();
         }
 
-
         public override void OnUpdate()
         {
             AIController.UpdateAI();
